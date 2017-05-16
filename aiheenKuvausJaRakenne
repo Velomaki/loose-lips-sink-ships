@@ -1,0 +1,20 @@
+#Laivanupotuspeli
+
+##Aihe
+Toteutetaan laivanupotuspeli klassisen lautapelin tyyliin graafisella käyttöliittymällä. Tavoitteena on tehdä ainakin yksinpeli, ehkä
+myös moninpeli. Laivanupotus on kahden pelaajan peli, jossa pelaajat ensin sijoittavat laivansa kartalle/ruudukolle ja sitten vuorotellen
+"ampuvat" arvaamalla ruudukon ruutuja yrittäen upottaa vastustajan laivat. Vuoro vaihtuu väärästä arvauksesta, ja peli päättyy, kun jompi 
+kumpi osapuoli menettää kaikki laivansa.
+
+
+Käyttäjät: Opiskelijat, opettajat ja koko maailma!
+
+Toiminnot:
+```
+Laivojen sijoittaminen ruudukkolle
+Arvausten tekeminen
+Pelin voitto tai häviö
+```
+
+
+
